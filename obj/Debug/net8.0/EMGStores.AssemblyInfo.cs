@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMGStores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0917cdeaaae4e33b0a69a0839c4d7894933cdfc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+670f59a830fc27ab8d882bc08b006696d5f01002")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMGStores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMGStores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
