@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMGStores", "EMGStores.csproj", "{686A0118-BFAD-0213-5D4A-E50A8B5627DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686A0118-BFAD-0213-5D4A-E50A8B5627DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686A0118-BFAD-0213-5D4A-E50A8B5627DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686A0118-BFAD-0213-5D4A-E50A8B5627DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686A0118-BFAD-0213-5D4A-E50A8B5627DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27C1E5E9-FF8E-4DD5-9F3A-101FB70D3753}
+	EndGlobalSection
+EndGlobal
