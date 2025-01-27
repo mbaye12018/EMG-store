@@ -5,12 +5,240 @@
       "PackagePath": "staticwebassets\\EMGStores.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\css\\bootsnav.css"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
       "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\brand\\br1.png",
+      "PackagePath": "staticwebassets\\images\\brand\\br1.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\brand\\br2.png",
+      "PackagePath": "staticwebassets\\images\\brand\\br2.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\brand\\br3.png",
+      "PackagePath": "staticwebassets\\images\\brand\\br3.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\brand\\br4.png",
+      "PackagePath": "staticwebassets\\images\\brand\\br4.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\brand\\br5.png",
+      "PackagePath": "staticwebassets\\images\\brand\\br5.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\brand\\br6.png",
+      "PackagePath": "staticwebassets\\images\\brand\\br6.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\clients\\c1.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\clients\\c2.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\clients\\c3.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\featured-cars\\fc1.png",
+      "PackagePath": "staticwebassets\\images\\featured-cars\\fc1.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\featured-cars\\fc2.png",
+      "PackagePath": "staticwebassets\\images\\featured-cars\\fc2.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\featured-cars\\fc3.png",
+      "PackagePath": "staticwebassets\\images\\featured-cars\\fc3.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\featured-cars\\fc4.png",
+      "PackagePath": "staticwebassets\\images\\featured-cars\\fc4.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\featured-cars\\fc5.png",
+      "PackagePath": "staticwebassets\\images\\featured-cars\\fc5.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\featured-cars\\fc6.png",
+      "PackagePath": "staticwebassets\\images\\featured-cars\\fc6.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\featured-cars\\fc7.png",
+      "PackagePath": "staticwebassets\\images\\featured-cars\\fc7.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\featured-cars\\fc8.png",
+      "PackagePath": "staticwebassets\\images\\featured-cars\\fc8.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\new-cars-model\\ncm1.png",
+      "PackagePath": "staticwebassets\\images\\new-cars-model\\ncm1.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\new-cars-model\\ncm2.png",
+      "PackagePath": "staticwebassets\\images\\new-cars-model\\ncm2.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\new-cars-model\\ncm3.png",
+      "PackagePath": "staticwebassets\\images\\new-cars-model\\ncm3.png"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\images\\welcome-hero\\welcome-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\welcome-hero\\welcome-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\js\\bootsnav.js"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
       "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\js\\site.js",
@@ -243,6 +471,10 @@
     {
       "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\MBAYE DIENG\\EMGStores\\wwwroot\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\logo\\favicon.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EMGStores.Microsoft.AspNetCore.StaticWebAssets.props",
