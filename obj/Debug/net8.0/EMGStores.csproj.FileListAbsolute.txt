@@ -28,3 +28,4 @@ C:\Users\MBAYE DIENG\EMGStores\obj\Debug\net8.0\refint\EMGStores.dll
 C:\Users\MBAYE DIENG\EMGStores\obj\Debug\net8.0\EMGStores.pdb
 C:\Users\MBAYE DIENG\EMGStores\obj\Debug\net8.0\EMGStores.genruntimeconfig.cache
 C:\Users\MBAYE DIENG\EMGStores\obj\Debug\net8.0\ref\EMGStores.dll
+C:\Users\MBAYE DIENG\EMGStores\obj\Debug\net8.0\EMGStores.sourcelink.json
