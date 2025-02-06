@@ -58,7 +58,7 @@ EMGStores.sln               -> Fichier solution Visual Studio
 Installation
 Cloner ou télécharger ce dépôt :
 
-git clone https://github.com/votre-repo/EMGStores.git
+git clone https://github.com/mbaye12018/EMGStores.git
 
 cd EMGStores
 Ouvrir la solution avec Visual Studio, VS Code ou un autre IDE :
