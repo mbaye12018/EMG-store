@@ -5,27 +5,7 @@ Afficher la liste des voitures disponibles (public).
 Ajouter, modifier, supprimer les annonces de voitures (réservé à l’Administrateur).
 Marquer une voiture comme “vendue” ou “plus disponible”.
 Protéger l’accès en écriture avec des rôles (via Microsoft Identity).
-Les technologies principales utilisées sont :
 
-.NET 6+ (ou version équivalente)
-ASP.NET Core MVC
-Entity Framework Core (pour la base de données)
-Microsoft Identity (pour l’authentification & rôles)
-JWT (optionnel, si vous exposez des endpoints API)
-Bootstrap / CSS (front-end)
-Sommaire
-Prérequis
-Structure du projet
-Installation
-Configuration de la base de données
-Lancement de l’application
-Fonctionnalités principales
-Authentification et rôles
-Tests unitaires
-CI/CD
-Contribution
-Licence
-Prérequis
 .NET 6 ou supérieur (SDK). Vous pouvez vérifier avec dotnet --version.
 SQL Server localement (ou une autre base compatible EF Core, comme Azure SQL, PostgreSQL, etc.). Si vous utilisez une base différente, ajustez la chaîne de connexion dans appsettings.json.
 Un IDE comme Visual Studio, Visual Studio Code ou Rider, ou la CLI .NET pour compiler/ouvrir le projet.
